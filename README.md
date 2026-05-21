@@ -28,8 +28,8 @@ By automating cost calculations and pairing them with structured shift times, th
 
 ## Author
 
-### Alex Mercer — Senior Solutions Architect
-* **Email:** support@mykpschedulelogin.io  
+### Name — keri
+* **Email:** keri12lee@outlook.com
 * **Website:** [My KP Schedule login](https://www.mykpschedule.org)
 
 **Bio:**  
