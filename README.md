@@ -1,11 +1,7 @@
 # My-KP-Schedule-login
 Thank you for your interest in contributing to the My KP Schedule Login portal repository! We welcome developers, designers, and testers of all skill levels to help improve this platform.
-# My KP Schedule Login Portal
-
 A highly secure, intuitive, and responsive scheduling and shift-expense management application designed to optimize daily workflows and financial logs.
-
 ---
-
 ## Description
 The My KP Schedule Login dashboard bridges the gap between workforce shift management and real-time operational expense auditing. Built specifically for modern enterprise teams, this application simplifies how users interact with their daily shift structures, handle digital authentication flows, and log incidental professional expenses. Its clean, high-performance user interface allows users to authenticate seamlessly into their shift panels, track active schedules, and systematically document work-related costs—such as travel, meals, and resource procurement—all within a single unified view. 
 
@@ -34,7 +30,7 @@ By automating cost calculations and pairing them with structured shift times, th
 
 ### Alex Mercer — Senior Solutions Architect
 * **Email:** support@mykpschedulelogin.io  
-* **Website:** [My KP Schedule login Portal](https://github.com/YOUR_USERNAME/my-kp-schedule-login)
+* **Website:** [My KP Schedule login](https://www.mykpschedule.org)
 
 **Bio:**  
 Alex is an elite Full-Stack Software Engineer and System Architect with over 12 years of hands-on experience building hyper-scalable web infrastructure and secure portal integrations. Specializing in React, Node.js, and complex cloud-native architectures, Alex possesses a profound mastery of state management patterns and UI/UX optimization strategies. Driven by an inherently helping nature, Alex spends free time mentoring junior developers globally, contributing to open-source developer toolkits, and crafting accessible, production-ready enterprise templates that elevate standard engineering workflows.
